@@ -6,3 +6,4 @@ Git practice
 
 
 - fast-forward exer
+- 3-way Merge exer
