@@ -5,5 +5,5 @@ Git practice
 - stash 실습
 
 
-- fast-forward exer
+- fast-forward exer / conflict test
 - 3-way Merge exer
