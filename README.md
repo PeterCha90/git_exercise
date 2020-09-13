@@ -1,4 +1,5 @@
 Git practice
+- feature/c rebase auto merge
 
 - pop 테스트
 - pull 테스트
