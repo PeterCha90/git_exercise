@@ -9,3 +9,5 @@ Git practice
 - 3-way Merge exer
 
 - rebase fast-forward
+
+- master - rebase auto merge
