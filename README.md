@@ -7,3 +7,5 @@ Git practice
 
 - fast-forward exer / conflict test
 - 3-way Merge exer
+
+- rebase fast-forward
