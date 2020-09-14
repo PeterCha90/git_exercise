@@ -1,5 +1,5 @@
 Git practice
-- master pr conflict
+- master & featre  pr conflict
 - rebase 1.2.
 - rebase 3.
 - master - rebase conflict
