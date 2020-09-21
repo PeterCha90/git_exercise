@@ -1,4 +1,5 @@
 Git practice
+- cherrypick exer
 - master & featre  pr conflict
 - rebase 1.2.
 - rebase 3.
